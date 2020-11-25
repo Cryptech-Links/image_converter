@@ -1,0 +1,26 @@
+E:\proj\computer_vision\image_converter\Image Converter\bin\Debug\Image Converter.exe.config
+E:\proj\computer_vision\image_converter\Image Converter\bin\Debug\Image Converter.exe
+E:\proj\computer_vision\image_converter\Image Converter\bin\Debug\Image Converter.pdb
+E:\proj\computer_vision\image_converter\Image Converter\obj\Debug\Image Converter.csprojResolveAssemblyReference.cache
+E:\proj\computer_vision\image_converter\Image Converter\obj\Debug\Image_Converter.Properties.Resources.resources
+E:\proj\computer_vision\image_converter\Image Converter\obj\Debug\Image Converter.csproj.GenerateResource.Cache
+E:\proj\computer_vision\image_converter\Image Converter\obj\Debug\Image Converter.exe
+E:\proj\computer_vision\image_converter\Image Converter\obj\Debug\Image Converter.pdb
+E:\proj\computer_vision\image_converter\Image Converter\obj\Debug\Image_Converter.image_converter.resources
+E:\proj\computer_vision\image_converter\Image Converter\bin\Debug\Image Converter.exe.manifest
+E:\proj\computer_vision\image_converter\Image Converter\bin\Debug\Image Converter.application
+E:\proj\computer_vision\image_converter\Image Converter\obj\Debug\Image Converter.exe.manifest
+E:\proj\computer_vision\image_converter\Image Converter\obj\Debug\Image Converter.application
+C:\Users\Kweku\Documents\Projects\image_converter\Image Converter\bin\Debug\Image Converter.exe.config
+C:\Users\Kweku\Documents\Projects\image_converter\Image Converter\obj\Debug\Image Converter.exe
+C:\Users\Kweku\Documents\Projects\image_converter\Image Converter\obj\Debug\Image Converter.pdb
+C:\Users\Kweku\Documents\Projects\image_converter\Image Converter\bin\Debug\Image Converter.exe.manifest
+C:\Users\Kweku\Documents\Projects\image_converter\Image Converter\bin\Debug\Image Converter.application
+C:\Users\Kweku\Documents\Projects\image_converter\Image Converter\bin\Debug\Image Converter.exe
+C:\Users\Kweku\Documents\Projects\image_converter\Image Converter\bin\Debug\Image Converter.pdb
+C:\Users\Kweku\Documents\Projects\image_converter\Image Converter\obj\Debug\Image Converter.csprojResolveAssemblyReference.cache
+C:\Users\Kweku\Documents\Projects\image_converter\Image Converter\obj\Debug\Image_Converter.image_converter.resources
+C:\Users\Kweku\Documents\Projects\image_converter\Image Converter\obj\Debug\Image_Converter.Properties.Resources.resources
+C:\Users\Kweku\Documents\Projects\image_converter\Image Converter\obj\Debug\Image Converter.csproj.GenerateResource.Cache
+C:\Users\Kweku\Documents\Projects\image_converter\Image Converter\obj\Debug\Image Converter.exe.manifest
+C:\Users\Kweku\Documents\Projects\image_converter\Image Converter\obj\Debug\Image Converter.application
